@@ -1,7 +1,7 @@
 
 <h1 align="center">ING Checkout for Magento</h1>
 
-All the payment options your Magento 2 store needs — in one plugin.
+All the payment options your Magento 2 store needs in one plugin.
 
 # Requirements
     Minimum PHP 8.1  
@@ -31,7 +31,7 @@ The plugin is now installed
 2. Go to *Stores* / *Configuration*
 3. Go to *Sales* / *Payment Methods*
 4. Scroll down to find the ING Checkout Settings
-5. Enter the API token and serviceID (these can be found in the ING Checkout Admin Panel --> https://mijnzakelijk.ing.nl/banking/ing-checkout/details
+5. Enter the API token and serviceID (these can be found in the ING Checkout Admin Panel https://mijnzakelijk.ing.nl/banking/ing-checkout/details)
 6. Save the settings
 7. Enable the desired payment methods and set allowed countries
 8. Save the settings
